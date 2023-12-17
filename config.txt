@@ -1,0 +1,9 @@
+# dbtype - mysql/files
+dbtype=
+
+mysql_user=root
+mysql_pass=
+mysql_host=localhost
+mysql_port=3306
+
+file_db_path=DB.txt
